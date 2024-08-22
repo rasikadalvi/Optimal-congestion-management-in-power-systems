@@ -170,7 +170,7 @@ def solve_model(file_path):
 def main(file_path):
     solve_model(file_path)
 
-file_path = "C:/Users/s2511090/OneDrive - University of Edinburgh/Desktop/dissertation_data.xlsx"
+file_path = MILP_Data.xlsx
 
 if __name__ == "__main__":
     main(file_path)
