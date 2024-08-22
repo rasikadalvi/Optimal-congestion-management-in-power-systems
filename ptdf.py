@@ -55,7 +55,7 @@ def export_to_excel(FA_df, FP_df, pL_df, delta_df, output_file):
 
 
 # File paths
-file_path = "C:/Users/s2511090/OneDrive - University of Edinburgh/Desktop/PTDF_data.xlsx"
+file_path = PTDF_data.xlsx
 output_file = 'output_matrices.xlsx'
 
 # Read and prepare data
