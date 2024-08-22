@@ -2,7 +2,7 @@ import pandas as pd
 from docplex.mp.model import Model
 
 # Load data from Excel
-file_path = "C:/Users/s2511090/OneDrive - University of Edinburgh/Desktop/EcoDispatch_Data.xlsx"
+file_path = D_Data.xlsx
 df_generators = pd.read_excel(file_path, sheet_name='Generators')
 df_buses = pd.read_excel(file_path, sheet_name='Buses')
 df_lines = pd.read_excel(file_path, sheet_name='Lines')
