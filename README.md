@@ -1,4 +1,4 @@
-# Optimal-congestion-management-in-power-systems
+# Optimal Congestion Management in Power Systems | MSc Dissertation Project
 
 This file contains the work I have done for my MSc dissertation project.
 
